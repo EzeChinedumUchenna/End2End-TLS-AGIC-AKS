@@ -104,6 +104,10 @@ Troubleshooting steps include checking AGIC logs, verifying AGIC configuration, 
 This revised version provides a more technical explanation of the steps involved in setting up end-to-end SSL for AKS behind AGIC.
 
 
+
+
+
+
 ## Troubleshooting Azure Application Gateway Ingress Controller (AGIC)
 
 This guide provides troubleshooting steps for issues related to Azure Application Gateway Ingress Controller (AGIC) when it is used as an ingress controller with Azure Kubernetes Service (AKS).
